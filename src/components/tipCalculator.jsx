@@ -90,7 +90,7 @@ const TipCalculator = () => {
               />
             </div>
             <div className="tips__container">
-              <h4 className="bill">Select Tips</h4>
+              <p className="bill">Select Tips</p>
               <div className="tip__per" ref={tipRef} onClick={selectTip}>
                 <h2 className="tips__amount tips__amount-1">5%</h2>
                 <h2 className="tips__amount tips__amount-2">10%</h2>

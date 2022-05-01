@@ -152,7 +152,6 @@ label {
   }
   .tip__container {
     padding: 4rem;
-    border: 2px solid red;
     width: 100%;
     max-width: 70rem;
     border-start-start-radius: 1rem;
